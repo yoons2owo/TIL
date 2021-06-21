@@ -19,7 +19,7 @@ Response
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <feed xml:base="/sap/byd/odata/cust/v1/Service/" xmlns="http://www.w3.org/2005/Atom" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
-    <id>https://my356725.sapbydesign.com/sap/byd/odata/cust/v1/Service/EntitySet</id>
+    <id>/sap/byd/odata/cust/v1/Service/EntitySet</id>
     <title type="text">EntitySet</title>
     <updated>2021-06-21T06:35:44Z</updated>
     <author>
