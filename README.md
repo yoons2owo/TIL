@@ -20,7 +20,7 @@ Today I Learned
   * 근사 알고리즘
 
 ## API 
-* [OData](https://github.com/yoons2owo/TIL/blob/main/OData/odata.md)
+* [OData](https://github.com/yoons2owo/TIL/blob/main/API/odata.md)
   * CRUD 
 ## Git
 * [Github 여러 계정 사용하기](https://github.com/yoons2owo/TIL/blob/main/Git/multi_account.md)
