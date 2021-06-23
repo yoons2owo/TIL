@@ -110,3 +110,18 @@ public class SpringConfig {
 그리고 정형화 되지 않거나, 상황에 따라 구현 클래스를 변경해야 하면 설정을 통해 스프링 빈으로
 등록한다.
 - @Autowired를 통한 DI는 Controller, Service 등과 같이 스프링이 관리하는 객체에서만 동작한다. 스프링 빈으로 등록하지 않고 내가 직접 생성한 객체에서는 동작하지 않는다.
+
+※ 스프링 빈이란?
+- Spring IoC 컨테이너에 의해 관리되는 객체
+- 인스턴스를 생성하고, 생명주기(life Cycle)를 수행하고, 의존성 주입(Dependency Injection) 한다는 것)
+- Spring Bean은 IoC 컨테이너에서 관리되기 때문에, IoC 컨테이너에 등록을 해야 사용할 수 있게 된다.
+
+※ 자바 빈이란?
+- 데이터를 표현하는 것을 목적으로 하는 자바 클래스
+
+- Java Bean 규약
+  - 기본생성자가 존재해야한다.
+  - 모든 멤버변수의 접근제어자는 private이다.
+  - 멤버변수마다 getter/setter가 존재해야한다. (속성이 boolean일 경우 is를 붙힘)
+  - 외부에서 멤버변수에 접근하기 위해서는 메소드로만 접근할 수 있다.
+  - Serializable(직렬화)가 가능해야한다.(외부의 시스템에서도 사용할 수 있도록 변환. 예를 들어 Json이나 csv로 변환하는 것, Serializable interface를 implements한 클래스는 직렬화 할 수 있다.)
