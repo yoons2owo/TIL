@@ -35,7 +35,7 @@ Today I Learned
 
 ## FCM
 * [Financial Report](https://github.com/yoons2owo/TIL/blob/main/FCM/fi_report.md)
-
+* [VAT](https://github.com/yoons2owo/TIL/blob/main/FCM/vat.md)
 
 ## SCM
 * [Logistics](https://github.com/yoons2owo/TIL/blob/main/CSM/logistics.md)
