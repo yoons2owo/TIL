@@ -1,4 +1,4 @@
-# Window Command
+# Windows Command
 
 ## findstr
 grep과 같음

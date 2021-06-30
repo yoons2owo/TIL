@@ -7,7 +7,7 @@ Today I Learned
   * 동기화와 임계영역
   * 프로세스의 상호 협력
   * 프로세스 간의 통신
-* [Window 명령어](https://github.com/yoons2owo/TIL/blob/main/OS/window_command.md.md)
+* [Windows 명령어](https://github.com/yoons2owo/TIL/blob/main/OS/windows_command.md)
 ## 알고리즘
 * [강의 요약](https://github.com/yoons2owo/TIL/blob/main/Algorithm/lecture_summary.md)
   * 기본 자료구조  
