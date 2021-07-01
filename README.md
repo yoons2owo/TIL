@@ -8,6 +8,8 @@ Today I Learned
   * 프로세스의 상호 협력
   * 프로세스 간의 통신
 * [Windows 명령어](https://github.com/yoons2owo/TIL/blob/main/OS/windows_command.md)
+* [Ubuntu Java 설치](https://github.com/yoons2owo/TIL/blob/main/OS/ubuntu_java_install.md)
+  * 환경변수 설정
 ## 알고리즘
 * [강의 요약](https://github.com/yoons2owo/TIL/blob/main/Algorithm/lecture_summary.md)
   * 기본 자료구조  
