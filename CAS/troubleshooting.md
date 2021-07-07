@@ -24,10 +24,6 @@ BAC 오브젝트에 BO 미할당
 1. Open BAC 
 2. Assign Solution Content
 
-<p>
-  <img src="https://userapps.support.sap.com/sap/support/sapnotes/public/services/embedded_image.htm?iv_key=002075125800000820212020&iv_guid=00109B36DB361EDA9F8B30F264CB20D9&alt=2BCE4CB10DF674B172F4F3F7B32A284F4933B334B288F734378C3730B44AC972F32FA972492D2FCACB890ACB0E2A72AF487677892C0B2D0A3770A9888FCCF0F00F358BCC72D5750C09514BCECFCFCE4C8DCF4BCC4DB5F575F4F4F3F57771F571F6F70B01B25D83D4120B0A722092A599504EB16D715E3E00">
-</p>
-
 https://userapps.support.sap.com/sap/support/knowledge/en/2913894
 
 ## Merge the change project 
@@ -35,5 +31,7 @@ https://userapps.support.sap.com/sap/support/knowledge/en/2913894
 If a BC change project is open on the tenant before you enable the patch solution on the test tenant, you will not be able to merge the change project unless you disable the patch solution
 
 Merge of a Change Project is copying the configuration data (Scoping and Fine Tuning) from the Change Project to the Productive project. Before merge, all the activities of the Change Project have been completed.
+
+주의 ) 솔루션 Disable 시, 구현 프로젝트 > 범위 설정과 액티비티가 초기화 된다.
 
 https://blogs.sap.com/2015/09/08/change-project-merge-and-sync-with-production/
